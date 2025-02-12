@@ -1,7 +1,6 @@
 import './App.css';
 import React from 'react';
-
-
+import Navbar from './login/LoginRegister';
 import 'bootstrap/dist/css/bootstrap.min.css'; // Ensure Bootstrap CSS is imported
 
 
